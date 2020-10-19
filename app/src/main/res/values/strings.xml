@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Payment</string>
+    <string name="cvv" translatable="false">CVV</string>
+    <string name="CARDNo" translatable="false">Card number</string>
+    <string name="Cardholder" translatable="false">Card holder</string>
+
+
+    <string name="card_number">Card Number</string>
+    <string name="add_new_card">+ Add new card</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="x">X</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="Expdate">Exp date</string>
+
+
+
+</resources>
